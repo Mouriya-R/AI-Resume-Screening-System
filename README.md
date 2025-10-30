@@ -1,11 +1,11 @@
-# AI Resume Screening System
+# 🧠 AI Resume Screening System
 
 An AI-powered system that analyzes and ranks resumes using NLP and Machine Learning.  
 Built with the **ResumeAtlas dataset**, **TF-IDF**, and **SVM** for intelligent resume classification.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 AI-Resume-Screening-System/
 ├── data/ # Dataset files
 ├── notebooks/ # Experiments & EDA
@@ -17,14 +17,14 @@ AI-Resume-Screening-System/
 └── README.md
 
 yaml
-Copy code
 
 ---
 
 ## ⚙️ Setup
+To install dependencies:
 ```bash
 pip install -r requirements.txt
-🧠 Tech Stack
+🧰 Tech Stack
 Python
 
 Scikit-learn
@@ -37,4 +37,3 @@ Flask (for deployment)
 
 👨‍💻 Author
 Mouriya R
-5th Semester Engineering Student
