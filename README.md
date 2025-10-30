@@ -24,7 +24,7 @@ Built with the **ResumeAtlas dataset**, **TF-IDF**, and **SVM** for intelligent 
 To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ##🧰 Tech Stack
