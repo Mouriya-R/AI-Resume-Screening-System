@@ -9,7 +9,6 @@ Built with the **ResumeAtlas dataset**, **TF-IDF**, and **SVM** for intelligent 
 
 ```text
 AI-Resume-Screening-System/
-│
 ├── data/          # Dataset files
 ├── notebooks/     # Experiments & EDA
 ├── src/           # Source code (model, utils)
@@ -18,18 +17,22 @@ AI-Resume-Screening-System/
 ├── logs/          # Logs & outputs
 ├── requirements.txt
 └── README.md
-
 ⚙️ Setup
-
 Install all dependencies:
 
+bash
+Copy code
 pip install -r requirements.txt
-
---------
 🧰 Tech Stack
-
 Python
+
 Scikit-learn
+
 TF-IDF Vectorization
+
 Support Vector Machine (SVM)
+
 Flask (for deployment)
+
+👨‍💻 Author
+Mouriya R
