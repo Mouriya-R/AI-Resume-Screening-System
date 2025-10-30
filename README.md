@@ -25,6 +25,8 @@ To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
 
+---
+
 ##🧰 Tech Stack
 
 Python
